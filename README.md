@@ -42,7 +42,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/nirmaljt" target="blank"><img src="https://img.shields.io/twitter/follow/nirmaljt?logo=twitter&style=for-the-badge" alt="nirmaljt" /></a>
+  <a href="https://twitter.com/nirmaljt" target="blank"><img src="https://img.shields.io/twitter/follow/NirmalJyotiT?logo=twitter&style=for-the-badge" alt="NirmalJyotiT" /></a>
   <a href="https://linkedin.com/in/nirmaljyotithakuria" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>

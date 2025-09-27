@@ -45,7 +45,7 @@
   <a href="https://twitter.com/NirmalJyotiT" target="_blank">
     <img src="https://img.shields.io/twitter/follow/NirmalJyotiT?logo=twitter&style=for-the-badge" alt="Twitter"/>
   </a>
-  <a href="[https://linkedin.com/in/nirmaljyotithakuria](https://www.linkedin.com/in/nirmal-jyoti-thakuria-7579a6335/)" target="_blank">
+  <a href="https://www.linkedin.com/in/nirmal-jyoti-thakuria-7579a6335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>

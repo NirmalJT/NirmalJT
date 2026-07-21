@@ -44,68 +44,6 @@ Full Stack Developer • MERN Stack Developer • Open Source Enthusiast
 
 🚀 Building scalable web applications using the **MERN Stack**
 
-🌱 Currently learning
-
-- Advanced React
-- DevOps
-- System Design
-- DSA in C++
-
-💡 Interested in
-
-- Software Engineering
-- Backend Development
-- Open Source
-- Cloud Computing
-
-⚡ Fun Fact
-
-> I love solving real-world problems with code.
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 Student Certificate & Franchise Management System
-
-A complete web platform for institutes to manage:
-
-- Student Records
-- Certificate Verification
-- Franchise Management
-- Authentication
-- Dashboard
-
-**Tech Stack**
-
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-
-🔗 https://mipe.vercel.app
-
----
-
-## 🌐 Portfolio Website
-
-Personal portfolio showcasing projects, skills and experience.
-
-**Tech**
-
-React • TailwindCSS
-
----
-
-## 🛒 MERN E-Commerce
-
-Modern shopping platform with authentication and payments.
-
-**Tech**
-
-React • Express • MongoDB
-
----
 
 # 💻 Tech Stack
 
@@ -141,22 +79,6 @@ React • Express • MongoDB
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NirmalJT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalJT&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=NirmalJT&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -167,38 +89,8 @@ React • Express • MongoDB
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NirmalJT&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- ⚛️ Advanced React
-- ☁️ DevOps
-- 🐳 Docker
-- ⚡ System Design
-- 📖 Operating Systems
-- 📖 Computer Networks
-- 📖 Data Structures & Algorithms
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve 500+ LeetCode Problems
-- ✅ Master MERN Stack
-- ✅ Learn DevOps
-- ✅ Build SaaS Projects
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
-
----
 
 # 🌍 Connect With Me
 

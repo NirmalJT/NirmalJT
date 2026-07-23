@@ -6,9 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Nirmal%20Jyoti%20Thakuria&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20MCA%20Student&descAlignY=58"/>
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Nirmal Jyoti Thakuria
-</h1>
+<h1 align="center">Hi 👋 I'm Nirmal Jyoti Thakuria</h1>
 
 <h3 align="center">
 Full Stack Developer • MERN Stack Developer • Open Source Enthusiast
@@ -36,7 +34,7 @@ Full Stack Developer • MERN Stack Developer • Open Source Enthusiast
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF">
 
 🎓 MCA Student at **Assam Engineering College**
 
@@ -44,53 +42,34 @@ Full Stack Developer • MERN Stack Developer • Open Source Enthusiast
 
 🚀 Building scalable web applications using the **MERN Stack**
 
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,npm"/>
-</p>
-
 ---
 
-# 📈 Contribution Graph
+# 💻 Tech Stack & Tools
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalJT&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,postgres,mysql,git,github,postman,vscode,figma,npm&perline=10" />
 </p>
 
 ---
 
+# 📊 GitHub Analytics
 
+<p align="center">
+  <a href="https://github.com/NirmalJT">
+    <img src="https://github-readme-stats.vercel.app/api?username=NirmalJT&show_icons=true&bg_color=0f172a&title_color=2563eb&text_color=ffffff&icon_color=2563eb&border_color=2563eb&hide_border=false&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/NirmalJT">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalJT&background=0f172a&title=2563eb&text=ffffff&sideicon=2563eb&dates=94a3b8&border=2563eb&hide_border=false" height="165" alt="GitHub Streak" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/NirmalJT">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalJT&bg_color=0f172a&title_color=2563eb&text_color=ffffff&border_color=2563eb&hide_border=false&layout=compact&langs_count=6" height="165" alt="Top Languages" />
+  </a>
+</p>
+
+---
 
 # 🌍 Connect With Me
 
@@ -119,23 +98,15 @@ Full Stack Developer • MERN Stack Developer • Open Source Enthusiast
 # ☕ Quote
 
 <p align="center">
-
 > **"First, solve the problem. Then, write the code."** — John Johnson
-
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
 </p>
 
 <h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
+⭐ Thanks for visiting my profile! If you like my work, don't forget to star my repositories.
 </h3>

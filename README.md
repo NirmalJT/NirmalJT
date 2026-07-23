@@ -56,16 +56,29 @@ Full Stack Developer • MERN Stack Developer • Open Source Enthusiast
 
 <p align="center">
   <a href="https://github.com/NirmalJT">
-    <img src="https://github-readme-stats.vercel.app/api?username=NirmalJT&show_icons=true&bg_color=0f172a&title_color=2563eb&text_color=ffffff&icon_color=2563eb&border_color=2563eb&hide_border=false&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=NirmalJT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      height="165"
+      alt="GitHub Stats"
+    />
   </a>
+
   <a href="https://github.com/NirmalJT">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalJT&background=0f172a&title=2563eb&text=ffffff&sideicon=2563eb&dates=94a3b8&border=2563eb&hide_border=false" height="165" alt="GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com?user=NirmalJT&theme=tokyonight&hide_border=true"
+      height="165"
+      alt="GitHub Streak"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NirmalJT">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalJT&bg_color=0f172a&title_color=2563eb&text_color=ffffff&border_color=2563eb&hide_border=false&layout=compact&langs_count=6" height="165" alt="Top Languages" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalJT&layout=compact&theme=tokyonight&hide_border=true"
+      height="165"
+      alt="Top Languages"
+    />
   </a>
 </p>
 
